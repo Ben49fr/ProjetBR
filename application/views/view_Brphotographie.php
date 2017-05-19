@@ -84,7 +84,7 @@
                 <div class="row">
                     <div class="span8 offset2">
                         <p>
-                            Découvrez à travers la galerie photo les albums des différentes manifestations automobiles réalisés par BR Photographie.
+                            TestDécouvrez à travers la galerie photo les albums des différentes manifestations automobiles réalisés par BR Photographie.
                         </p>
                     </div>
                 </div>
