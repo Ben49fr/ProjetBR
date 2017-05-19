@@ -1,0 +1,13 @@
+
+<ul class="thumbnails plugin-filter-elements portfolio-items">
+    <?php foreach ($galleries as $gallery) { ?>
+        <li class="span4 mix">
+            <a href="#pages/photo.html" data-destination="portfolio-items" data-insert="before">
+                <img src="<?=$gallery->getGaleriePicture()?>" alt="">
+                <div class="portfolio-overlay">
+                    <h4><?=$gallery->name?></h4>
+                </div>
+            </a>
+        </li>
+    <?php } ?>
+</ul>
